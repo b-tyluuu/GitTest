@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         print("git")
         print("second commit")
     }
+    
+    func gitTest() {
+        print("To test a git")
+    }
 
 
 }
